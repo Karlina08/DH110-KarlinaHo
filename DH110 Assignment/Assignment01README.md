@@ -71,9 +71,10 @@ Heuristic | EEC Heuristic Evaluation | Recommendation | Severity Rating
 #### The Massachusetts Department of Elementary and Secondary Education (ESE) is acknowledged by the United States Department of Education at the state education agency for the Commonwealth of Massachusetts. Ran by the Early Education Department, the main responsibility for the ESE is to promote the accessibility of early childhood resources, materials, and services accross Massachusetts for all public schools ranging from pre-k to high school. In my heuristic evaluation, my perspective will also center around a parent who uses English as a second language, is visually and physically impaired, and is interested in gaigning more information regarding resources and materials for their middle school child. 
 
 ### Heuristic Evaluation: 
-Heuristic | EEC Heuristic Evaluation | Recommendation | Severity Rating
+Heuristic | ESE Heuristic Evaluation | Recommendation | Severity Rating
 --------------------------|---------------------------|------------|----------------------
-**Visibility of System Status:** | 
+**Visibility of System Status:** | **Issue:** When users hover over images, no words, colors, nor increased picture sizes occur, hindering a user's ability to acknowledge that the links are embedded in the actual photos. Instead, the user may believe the word "link" should be clicked on to access the information. ![website of MA Department of Early Education and Care](DHVis.png) | **Recommendation:** When cursor is hovering over the link, provide users with feedback (such as a color change or bolded words) to acknowledge that the link is ready to be clicked | 3 
+
 
 
 
@@ -87,7 +88,7 @@ Heuristic | EEC Heuristic Evaluation | Recommendation | Severity Rating
 
 
 **Error prevention:** Provide safety nets for user, such as confirming an action. | **Good:** There is a save button for when submitting assignments. | **No Improvements:** There seem to be enough precautions in place that will prevent the user from making any detrimental actions that cannot be undone.
-**Recognition Rather than Recall | The search bar on the site does not provide any potential search bar results when words are typed into it, overall lacking any kind of recognition feature. ![website of MA Department of Early Education and Care](DHRecognition.png) | **Improvement:** Provide users with an auto-complete option based on the characters entered. | 2 
+**Recognition Rather than Recall | The search bar fails to provide any potential search bar results when words are typed into it. Therefore, information is retrieved less easily as the user must recall rather than recognize. ![website of MA Department of Early Education and Care](DHRec2.png) | **Recommendation:** Allow users to use an query auto-complete option to predict the user's searches based on the characters entered. | 2 
 
 
 **Flexibility and efficiency of use:** Make a page that is accessible to all, have basic functions at the forefront and more advanced options accessible through more steps. |**Good:** General settings and then more advanced, less used ones separate, such as synching. **Bad:** Sometimes there is extra navigation involved that does not require it, there is only one option in each navigation step. | **Improvement:** Depending on how many options in each setting step, reduce the amount of steps to get to the end option.
