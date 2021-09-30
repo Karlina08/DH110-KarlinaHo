@@ -38,15 +38,33 @@
 ### Heuristic Evaluation: 
 Heuristic | EEC Heuristic Evaluation | Recommendation | Severity Rating
 --------------------------|---------------------------|------------|----------------------
-**Visibility of System Status:** | The search bar on the site does not provide any potential search bar results when words are typed into it, overall lacking any kind of recognition feature . | **Improvement:** Make sure the app is fully linked or synched to be reflective of the CCLE online page and what the student is currently enrolled in.
+**Visibility of System Status:** | When users hover over the menu bar on the words, "News," "Events," and "Locations," the links do not change color, bold, nor provide any type of system status to acknowledge to the user that the site is responding to their mouse hovering over the link unlike its dropdown counterparts. ![website of MA Department of Early Education and Care](DHRecognition.png) | **Recommendation:** When cursor is hovering over the link, provide users with feedback (such as a color change or bolded words) to acknowledge that the link is ready to be clicked | 3 
+
+
+
+
 **Match between system and real world:** Design and icons are based off of general knowledge. Things the user will easily recognize. | **Bad:** The graph at the bottom is not necessarily reflective of grades, not as easily recognizable. Within calendar there is a funnel, which has an unclear meaning - it means other classes. Three dots in calendar takes you to settings and that goes to a setting of notification time. | **Improvement:** The graph could be changed to an A+ symbol. The funnel could be a plus (indicating for more) or three dots. The notification time setting can be better, since there is only one option in settings, to have a different icon of a bell is better for notifications.
+
+
 **User control and freedom:** User has options, such as undo or redo. | **Bad:** In notifications, there is a list of notifications that have been sent by instructor to the class through CCLE. I have multiple messages but there is no back button. Three dots at the top do not have a back button. | **Improvement:** Place a back button option at the top in addition to the three dot icon.
+
+
 **Consistency and standards:** Design and usage is consistent across all pages of the web/app. | **Bad:** Some drop down menus are not the same style: check in circle; smaller, dark circle in larger one; square vs circle. In each course there are options at the top for Contents, Grades, and Competencies. Competencies is empty and the meaning of it is unknown. | **Improvement:** Have a uniform drop down menu style and select option. Have a description on pages where there is no information or titles can be ambiguous. 
+
+
 **Error prevention:** Provide safety nets for user, such as confirming an action. | **Good:** There is a save button for when submitting assignments. | **No Improvements:** There seem to be enough precautions in place that will prevent the user from making any detrimental actions that cannot be undone.
-**Recognition rather than recall:** Provide suggestions or context in actions. | **Bad:** Search courses, doesn’t search your courses but searches for other courses. | **Improvement:** Either describe what the search function is for or change the search function to be searching within your courses. 
+**Recognition Rather than Recall | The search bar on the site does not provide any potential search bar results when words are typed into it, overall lacking any kind of recognition feature. ![website of MA Department of Early Education and Care](DHRecognition.png) | **Improvement:** Provide users with an auto-complete option based on the characters entered. | 2 
+
+
 **Flexibility and efficiency of use:** Make a page that is accessible to all, have basic functions at the forefront and more advanced options accessible through more steps. |**Good:** General settings and then more advanced, less used ones separate, such as synching. **Bad:** Sometimes there is extra navigation involved that does not require it, there is only one option in each navigation step. | **Improvement:** Depending on how many options in each setting step, reduce the amount of steps to get to the end option.
+
+
 **Aesthetic and minimalist design:** Design is not cluttered and easily accessible. | **Bad:** The large colored bars for each class at the home page are not needed. They clutter the page and make it so you have to scroll more. | **Improvement:** Take away the colored blocks and just have separate, distinct boxes for each course.
+
+
 **Help users recognize, diagnose, and recover from errors:** Have a non-concerning message about an error and give information on how to fix it of move forward. | **Bad:** Error notifications have to be manually put on, through a 4 step process. | **Improvement:** Have error notifications be set automatically. The user can manually turn them off if that is their choice.
+
+
 **Help and documentation:** Have easily accessible and understandable help pages or pages with commonly asked questions. | **Bad:** Help takes you to an outside page, out of the app. The help seems to be more catered to administrators, rather than users. No search for help. No FAQ, common issues. No Trouble shooting. Help does not reflect the app or how it looks. | **Improvement:** Have a help that is centered for users within the app and one that reflects the app that is in use. An FAQ of troubleshooting option in the app would also be helpful. 
 
 
@@ -55,4 +73,33 @@ Heuristic | EEC Heuristic Evaluation | Recommendation | Severity Rating
 ### Site Overview: 
 #### The Massachusetts Department of Elementary and Secondary Education (ESE) is acknowledged by the United States Department of Education at the state education agency for the Commonwealth of Massachusetts. Ran by the Early Education Department, the main responsibility for the ESE is to promote the accessibility of early childhood resources, materials, and services accross Massachusetts for all public schools ranging from pre-k to high school. In my heuristic evaluation, my perspective will also center around a parent who uses English as a second language, is visually and physically impaired, and is interested in gaigning more information regarding resources and materials for their middle school child. 
 
+### Heuristic Evaluation: 
+Heuristic | EEC Heuristic Evaluation | Recommendation | Severity Rating
+--------------------------|---------------------------|------------|----------------------
+**Visibility of System Status:** | 
 
+
+
+**Match between system and real world:** Design and icons are based off of general knowledge. Things the user will easily recognize. | **Bad:** The graph at the bottom is not necessarily reflective of grades, not as easily recognizable. Within calendar there is a funnel, which has an unclear meaning - it means other classes. Three dots in calendar takes you to settings and that goes to a setting of notification time. | **Improvement:** The graph could be changed to an A+ symbol. The funnel could be a plus (indicating for more) or three dots. The notification time setting can be better, since there is only one option in settings, to have a different icon of a bell is better for notifications.
+
+
+**User control and freedom:** User has options, such as undo or redo. | **Bad:** In notifications, there is a list of notifications that have been sent by instructor to the class through CCLE. I have multiple messages but there is no back button. Three dots at the top do not have a back button. | **Improvement:** Place a back button option at the top in addition to the three dot icon.
+
+
+**Consistency and standards:** Design and usage is consistent across all pages of the web/app. | **Bad:** Some drop down menus are not the same style: check in circle; smaller, dark circle in larger one; square vs circle. In each course there are options at the top for Contents, Grades, and Competencies. Competencies is empty and the meaning of it is unknown. | **Improvement:** Have a uniform drop down menu style and select option. Have a description on pages where there is no information or titles can be ambiguous. 
+
+
+**Error prevention:** Provide safety nets for user, such as confirming an action. | **Good:** There is a save button for when submitting assignments. | **No Improvements:** There seem to be enough precautions in place that will prevent the user from making any detrimental actions that cannot be undone.
+**Recognition Rather than Recall | The search bar on the site does not provide any potential search bar results when words are typed into it, overall lacking any kind of recognition feature. ![website of MA Department of Early Education and Care](DHRecognition.png) | **Improvement:** Provide users with an auto-complete option based on the characters entered. | 2 
+
+
+**Flexibility and efficiency of use:** Make a page that is accessible to all, have basic functions at the forefront and more advanced options accessible through more steps. |**Good:** General settings and then more advanced, less used ones separate, such as synching. **Bad:** Sometimes there is extra navigation involved that does not require it, there is only one option in each navigation step. | **Improvement:** Depending on how many options in each setting step, reduce the amount of steps to get to the end option.
+
+
+**Aesthetic and minimalist design:** Design is not cluttered and easily accessible. | **Bad:** The large colored bars for each class at the home page are not needed. They clutter the page and make it so you have to scroll more. | **Improvement:** Take away the colored blocks and just have separate, distinct boxes for each course.
+
+
+**Help users recognize, diagnose, and recover from errors:** Have a non-concerning message about an error and give information on how to fix it of move forward. | **Bad:** Error notifications have to be manually put on, through a 4 step process. | **Improvement:** Have error notifications be set automatically. The user can manually turn them off if that is their choice.
+
+
+**Help and documentation:** Have easily accessible and understandable help pages or pages with commonly asked questions. | **Bad:** Help takes you to an outside page, out of the app. The help seems to be more catered to administrators, rather than users. No search for help. No FAQ, common issues. No Trouble shooting. Help does not reflect the app or how it looks. | **Improvement:** Have a help that is centered for users within the app and one that reflects the app that is in use. An FAQ of troubleshooting option in the app would also be helpful. 
