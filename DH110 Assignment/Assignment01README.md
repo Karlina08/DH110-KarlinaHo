@@ -3,7 +3,6 @@
 --------
 
 ## Karlina Ho || DGT HUM 110 || Assignment 01: Heuristic Evaluation
-
 ### Description: 
 ##### A leading predictor regarding academic success and achievement among students revolves around the degree to which parents are involved in their child's education. Yet, numerous digital platforms and webpages often showcase inaccessible content for marginalized groups of parents including non-English speakers, disabled persons, and individuals with age-related impairments/disabilities. With the goal of educational sites to allow educators and government officials the ability to connect with parents and relay crucial information regarding their child's education, website accessibility remains essential for educational equity. Consequently, this assignment delves deeper into the government-affiliated sites of the Early and Elementary plus Secondary education sites of Massachusetts and analyzes their accessibility and usability through a heuristic  evaluation. 
 
@@ -21,13 +20,26 @@
 |9|Help Users Recognize, Diagnose, and Recover from Errors|Error messages should be expressed in plain and simple language (no error codes). They should directly reveal the problem and constructively suggest a solution.|
 |10|Help and Documentation|It is best if the system doesn’t need any additional explanation. However, it may be needed to supply documentation to help users understand how to complete their tasks.|
 
+### [Severity Ratings for Usability Problems by Nielsen Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
+|Rating|Description|
+|---|---|
+|1|Cosmetic problem only: need not be fixed unless extra time is available on project|
+|2|Minor usability problem: fixing this should be given low priority|
+|3|Major usability problem: important to fix, so should be given high priority|
+
+--------
 ### [Massachusetts Department of Early Education and Care](https://www.mass.gov/orgs/department-of-early-education-and-care)
+### Site Overview: 
+#### The Massachusetts Department of Early Education and Care (EEC) is part of the Executive Office of Education and the chief agency regarding the entirety of early education and care services found in the Commonwealth. As 1 of the 9 Executive Offices under the Massachusetts governor Charlie Baker, the EEC sets the politics and regulations affiliated to early education and care services and programs. Additionally, the site provides various resources, programs, certifications, and news made to assist caregivers with childhood development. 
+#### In my heuristic evaluation, my perspective will focus on a parent who is visually and physically impaired, and is interested in learning more about various resources and programs for improvement upon their child's early childhood development. As a result, reading websites and decreased motor control will greatly affect their user experience throughout the site. My overall evaluation of the site before my heuristic evaluation is that the site is fairly easy to navigate, with key information presented in visualizations and easy-to-find links. However, throughout many of the pages on the site, it can be argued that too many hyperlinks are utilized for users to access necessary plans, portals, and services which can impact not just the ease of access to documents for users, but also readability to parents with visual impairments as a fair amount of text is written in blue.  
+
+In my heuristic evaluation, I will focus on the perspective of a student who needs financial aid in order to go to college and is interested in applying for financial aid. From this point of view, ease of use will be crucial, as it could be the difference between applying for a loan-- and ultimately going to college-- or not.
 ![website of MA Department of Early Education and Care](MAEarlyEdu.png)
-#### Site Overview:
-## The Massachusetts Department of Early Education and Care (EEC) is part of the Executive Office of Education and the chief agency regarding the entirety of early education and care services found in the Commonwealth. As 1 of the 9 Executive Offices under the Massachusetts governor Charlie Baker, the EEC sets the politics and regulations affiliated to early education and care services and programs. Additionally, the site provides various resources, programs, certifications, and news made to assist caregivers with childhood development. 
 
 
 ### [Massachusetts Department of Elementary and Secondary Education](https://www.doe.mass.edu/)
 ![website of MA Department of Elementary and Secondary Education](MASecEdu.png)
-#### Site Overview:  
+### Site Overview: 
+#### The Massachusetts Department of Elementary and Secondary Education (ESE) is acknowledged by the United States Department of Education at the state education agency for the Commonwealth of Massachusetts. Ran by the Early Education Department, the main responsibility for the ESE is to promote the accessibility of early childhood resources, materials, and services accross Massachusetts for all public schools ranging from pre-k to high school.
+
 
