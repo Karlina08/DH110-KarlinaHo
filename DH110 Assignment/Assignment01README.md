@@ -5,7 +5,7 @@
 ## Karlina Ho || DGT HUM 110 || Assignment 01: Heuristic Evaluation
 
 ### Description: 
-##### A leading predictor regarding academic success and achievement among students revolves around the degree to which parents are involved in their child's education. Yet, numerous digital platforms and webpages often showcase inaccessible content for marginalized groups of parents including non-English speakers, disabled persons, and indiviuals with age-related impairments/diasbilities. With educational sites allowing educators and government officials alike the ability to connect with parents and relay crucial information regarding their child's education, the need for parental invovlvement for early and higher education institutions highlight the importance for website accessibility— and educational equity. Consequently, this assignment devles deeper into the government-affiliated sites of the Early and Elementary plus Secondary education sites of Massachusetts and analyzes their accessibility and usuability through a heurisitc evaluation. 
+##### A leading predictor regarding academic success and achievement among students revolves around the degree to which parents are involved in their child's education. Yet, numerous digital platforms and webpages often showcase inaccessible content for marginalized groups of parents including non-English speakers, disabled persons, and individuals with age-related impairments/disabilities. With the goal of educational sites to allow educators and government officials the ability to connect with parents and relay crucial information regarding their child's education, website accessibility remains essential for educational equity. Consequently, this assignment delves deeper into the government-affiliated sites of the Early and Elementary plus Secondary education sites of Massachusetts and analyzes their accessibility and usability through a heuristic  evaluation. 
 
 ### [Jakob Nielson's 10 Usability Heurisitcs](https://www.nngroup.com/articles/ten-usability-heuristics/)
 |Number|Heuristic|Definition|
@@ -20,6 +20,8 @@
 |8|Aesthetic and Minimalist Design|Interfaces should not have information that is unimportant or unnecessary. Extra units of information in an interface rival with more relevant units of information, which can ultimately decrease their relative visibility.|
 |9|Help Users Recognize, Diagnose, and Recover from Errors|Error messages should be expressed in plain and simple language (no error codes). They should directly reveal the problem and constructively suggest a solution.|
 |10|Help and Documentation|It is best if the system doesn’t need any additional explanation. However, it may be needed to supply documentation to help users understand how to complete their tasks.|
+
+### [Massachusetts Department of Early Education and Care](https://www.mass.gov/orgs/department-of-early-education-and-care)
 
 
 
