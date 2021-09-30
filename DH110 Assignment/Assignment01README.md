@@ -22,7 +22,7 @@
 |10|Help and Documentation|It is best if the system doesn’t need any additional explanation. However, it may be needed to supply documentation to help users understand how to complete their tasks.|
 
 ### [Massachusetts Department of Early Education and Care](https://www.mass.gov/orgs/department-of-early-education-and-care)
-
+![website of MA Department of Early Education and Care](MAEarlyedu.png)
 
 
 
