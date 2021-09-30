@@ -23,9 +23,11 @@
 
 ### [Massachusetts Department of Early Education and Care](https://www.mass.gov/orgs/department-of-early-education-and-care)
 ![website of MA Department of Early Education and Care](MAEarlyEdu.png)
+#### Site Overview:
+## The Massachusetts Department of Early Education and Care (EEC) is part of the Executive Office of Education and the chief agency regarding the entirety of early education and care services found in the Commonwealth. As 1 of the 9 Executive Offices under the Massachusetts governor Charlie Baker, the EEC sets the politics and regulations affiliated to early education and care services and programs. Additionally, the site provides various resources, programs, certifications, and news made to assist caregivers with childhood development. 
 
 
-
-### [Massachusetts Department of Early Education and Care](https://www.doe.mass.edu/)
+### [Massachusetts Department of Elementary and Secondary Education](https://www.doe.mass.edu/)
 ![website of MA Department of Elementary and Secondary Education](MASecEdu.png)
+#### Site Overview:  
 
