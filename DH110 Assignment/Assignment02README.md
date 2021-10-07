@@ -37,3 +37,7 @@ Note: This usability test is a **pilot test**.
 - aesthetic; poor use of white space 
 
 
+One paragraph describing what you learned during the pilot test, what went well and what did not go well, focusing on how you want to improve your UT in the future.
+
+
+
