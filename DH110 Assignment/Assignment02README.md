@@ -31,16 +31,14 @@ Note: This usability test is a **pilot test**.
 #### https://drive.google.com/file/d/1XXnAjIhq1RSTPJgxbiS3n7cxbE0czTAE/view?usp=sharing
 
 ### Reflection 
-In the future, I hope to improve on readiness, and intend to test out the script beforehand. Additionally, I noticed several typos made throughout my Usability Test when conducting the pilot test, and would ensure in the feature that grammatical errors were eradicated. 
+Throughout the usability test, I noticed that I tended to assist the user when tasks took longer than the seemingly normal period of time. Although the first and second task was completed fairly quickly by the user, I found it interesting the difficulty of the third task was for the user, and did not expect the user to believe that they had successfully completed the task the first time when they actually hadn't, promting assistance from myself to the user. 
+In the future, I hope to improve on readiness, and intend to test out the script beforehand. I noticed several typos made throughout my Usability Test when conducting the pilot test, and would ensure in the feature that grammatical errors were eradicated. 
 Overall, conducting this test allowed me to gain valuable knowledge and insight into the percieved wesbite accessibility of others and allowed me to further analyze what it means to have a site that is "accessible for all." Things I originally thought were seemingly common protocols such as using the search bar to search for items wre replaced with the actual usage of click through links, enabling me to better understand the importance of topics such as error prevention. 
 
-- ofren wanted to help 
-- saw that the orgnziation of the site was not intuitive, with many needed material and information being embedded and hidden deep within the site 
-- unclear directions that ofte resulted 
-- aesthetic; poor use of white space 
+From this pilot, I learned that the wording of the questionaire greatly impacts the way the user answers the question and that unclear wording can lead to answer discrepancy. When asked, "how likely wuld you do this task," the user was unsure to answer the question based on the perspective of a parent using the website or actually himself. Furthermore, I learned that the user believed that the website failed to be successful in the realm of organization, as task 3 took the user more time than expected to complete. He felt that the final task was complex to execute, and went to the wrong page numerous times to look for information regarding the Help Desk. Additionally, the user believed that a lot of unused space on he website, alluding to the idea of lack of aesthetic and minimalistic design.   
 
+I noticed that the user's inability to complete task 3 revealed that the embeding of a multitude of links to find certain information can prevent indiviuals from finding specific information on the site and the links needed to find the guides were not intuitive. Even more, because the site is found within the main MA government website, it was unclear among individuals whether or not they had even left the early education and care site. 
 
-One paragraph describing what you learned during the pilot test, what went well and what did not go well, focusing on how you want to improve your UT in the future.
-
+In conclusion, I learned a lot about the thoughts and feelings of a user interacting with the EEC site, and found it extremely interesting the unique paths each user takes in order to complete the tasks. I believe that overall, the testing went well as I was able to solidify the idea that the site was somewhat problematic with users being unable to effieciently complete tasks and find information in a timely manner. I noticed that I would also have to encourage conversation from the user and remind them to speak aloud. As mentioned before, I must be more congnizant of how much information/help I provide to the user and be prepared for unexpected questions dealing with the wording of the questions. Although I was surprised to see how the user interacted with the site through the use of a multitude of tabs, it was insightful to see athe user's perspective to ultimately uncover the improvement of the website's accessibility. 
 
 
