@@ -31,6 +31,9 @@ Note: This usability test is a **pilot test**.
 #### https://drive.google.com/file/d/1sSm2wYWoKqLCfqaUptrmKtaOg2n68pCZ/view?usp=sharing
 
 ### Reflection 
+In the future, I hope to improve on readiness, and intend to test out the script beforehand. Additionally, I noticed several typos made throughout my Usability Test when conducting the pilot test, and would ensure in the feature that grammatical errors were eradicated. 
+Overall, conducting this test allowed me to gain valuable knowledge and insight into the percieved wesbite accessibility of others and allowed me to further analyze what it means to have a site that is "accessible for all." Things I originally thought were seemingly common protocols such as using the search bar to search for items wre replaced with the actual usage of click through links, enabling me to better understand the importance of topics such as error prevention. 
+
 - ofren wanted to help 
 - saw that the orgnziation of the site was not intuitive, with many needed material and information being embedded and hidden deep within the site 
 - unclear directions that ofte resulted 
