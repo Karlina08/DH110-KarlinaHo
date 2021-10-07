@@ -28,7 +28,7 @@ Note: This usability test is a **pilot test**.
 #### https://forms.gle/NWQ7P14NNLHd1pG38
 
 ### Link to UT Video 
-#### https://drive.google.com/file/d/1sSm2wYWoKqLCfqaUptrmKtaOg2n68pCZ/view?usp=sharing
+#### https://drive.google.com/file/d/1XXnAjIhq1RSTPJgxbiS3n7cxbE0czTAE/view?usp=sharing
 
 ### Reflection 
 In the future, I hope to improve on readiness, and intend to test out the script beforehand. Additionally, I noticed several typos made throughout my Usability Test when conducting the pilot test, and would ensure in the feature that grammatical errors were eradicated. 
