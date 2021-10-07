@@ -22,13 +22,18 @@ During **Task 2,** users will search for financial assistance ragarding child ca
 ### Methodology 
 This usability test was conducted via Zoom where both particpants were located in a quiet room in their apartment. A Macbook pro was used to record the session, and Zoom was utilized as the recording and video platform. Users were located in different rooms, but tuned into the Zoom synchronously. In person however, the user and the interviewer would sit either adjacent or across from each other during the duration of the test. Before beginning the usability test. Before beginning the survey, the participant will be presented with an informed consent page to ensure communication. Throughout the study, the user will think aloud and walk the researcher through their proceses and discuss the results and views on the success of their completed task. Upon completing the tasks, the user will then share their perspective on their ease and time of completing the task, along with a variety of topics including degree of satisfaction, the complexity and ease of the site's navigation, and ideas for improvement. Finally, the participan will fill out a confidential questionarrie about their demogprahics including their age and ethnicity.
 
-
-This usability test is intended as a pilot test.
+Note: This usability test is a **pilot test**.
 
 ### Link to UT Survey 
 #### https://forms.gle/NWQ7P14NNLHd1pG38
 
 ### Link to UT Video 
 #### https://drive.google.com/file/d/1sSm2wYWoKqLCfqaUptrmKtaOg2n68pCZ/view?usp=sharing
+
+### Reflection 
+- ofren wanted to help 
+- saw that the orgnziation of the site was not intuitive, with many needed material and information being embedded and hidden deep within the site 
+- unclear directions that ofte resulted 
+- aesthetic; poor use of white space 
 
 
