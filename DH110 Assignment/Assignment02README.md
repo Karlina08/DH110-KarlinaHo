@@ -1,5 +1,5 @@
 # Pilot Usability Test
-
+-------------
 ## Karlina Ho || DGT HUM 150 || Assignment 02: Usability Evaluation with Users
 
 ### Introduction
@@ -23,7 +23,8 @@ During **Task 2,** users will
 Finally, in **Task 3,** users will 
 
 
-
+### Link to UT Survey 
+#### https://forms.gle/NWQ7P14NNLHd1pG38
 
 
 n Task 1, I will ask the user to perform a search for Economics Requirements to determine how effective the search function is for retrieving results. This task will also demonstrate the extent to which the lack of error prevention creates a difficult experience for the user. It will further enlighten me as to what aspects of the search function can be improved. In Task 2, the user will locate career resources and pathways for an economics major. This will assess the efficiency of locating these pages. I can observe how the cluttered website affects the time it takes for a user to complete this task. In Task 3, the user is asked to find the counseling department in order to book an appointment with a counselor. Through the survey, I will be able to determine the degree to which the user is satisfied with the task and how comfortable the user is with utilizing the website. The goal is to understand and improve the website's usability from the user's perspective.
