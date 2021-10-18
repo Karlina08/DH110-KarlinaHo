@@ -30,7 +30,8 @@
 **What do/did the users usually do in order to complete that activity?** 
 * To gain access to financial assistance for these childhood education and care programs, users visit the [Massachusetts Department of Early Education and Care](https://www.mass.gov/orgs/department-of-early-education-and-care) (EEC) site and click on the "Early education and care financial assistance for families" link under the "I want to..." tab. Then, they would look through the eligibility requirements. If they meet these criteria, they can move onto the "how to apply section of the site and either call "Mass 211" or contact and/or visit their closest Child Care Resource and Referral (CCR&R) agency. If funding is available, users will be sent a notice via mail that asks them to schedule an appointment with their local Child Care Resource and Referral (CCR&R) agency. If funding is not available, their name will be placed on a wailist. During this time, users may be sent a confirmation and renewal letter via mail. 
 
-### ✏️ Step 03: Pick Observation Method(s)
+### ✏️ Step 03: Pick Qualitative Research Method(s)
+The qualitative research method employed for this activity was **participatory observation and interaction.** The interviewee participated in multiple activities to explore the topic of educational and financial assistance among early education and care programs along with their viewpoints and perspectives on the topic.
 
 ## *Participatory Research Materials* 
 
