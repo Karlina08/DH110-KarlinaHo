@@ -7,7 +7,7 @@
 * The main activity this project would support for the users will surround itself around their ability to gain access to financial assistance towards early education and care programs for their families. Consequently, this will hopefully enable underrepresented and lower socioeconomic communities the opportunity to acquire support for the growth and development of children and obtain assistance in the pursuit of the child's educational endeavors.    
 
 **What is the basic need/goal involved for that activity?**
-* The basic need/goal involved in this activity is education. Allowing access to education by gaining financial assistance for the user's families gives their children the opportunity to prepare for their future by cultivating new perspectives, exploring and building upon current knowledge for the purpose of informing others, and gaining access to a wider range of professional career and personal growth opportunities. 
+* The basic need/goal involved in this activity is education and financial accessibility. Allowing access to education by gaining financial assistance for the user's families gives their children the opportunity to prepare for their future by cultivating new perspectives, exploring and building upon current knowledge for the purpose of informing others, and gaining access to a wider range of professional career and personal growth opportunities. 
 
 **What is(are) the traditional/current solution(s) to satisfy the needs?**
 * Currently, to satisfy the financial assistance needs for early education and care programs, families are able to contact Child Care Resource and Referral Agencies (CCR&Rs) or enroll in Child Care Payment Programs, cash aid/welfare assistance programs, and other subsidized child care programs. 
