@@ -1,7 +1,7 @@
 > # Learning From People in Context
 > ### _Karlina Ho || DGT HUM 150 || Assignment 03: User Research (Contextual Inquiry)_
 
-## Introductory Steps 
+## *Introductory Steps* 
 ### ✏️ Step 01: Specify the Main Challenge 
 **What is the main activity your project would support for the users?**
 * The main activity this project would support for the users will surround itself around their ability to gain access to financial assistance towards early education and care programs for their families. Consequently, this will hopefully enable underrepresented and lower socioeconomic communities the opportunity to acquire support for the growth and development of children and obtain assistance in the pursuit of the child's educational endeavors.    
@@ -16,9 +16,16 @@
 * Present limitations regarding financial assistance for early education and care programs include the inability to access the information in an efficient manner online, and obtaining the correct individuals to enquire about financial assistance often becomes cumbersome through the need to speak with multipl individuals through a prolonged period of time. To better facilitate the journey of acquiring financial assistance of early education and care programs, users should be given a digital guide with access to direct contacts for a more streamlined process, rather than being provided external links that require users to perform additional research for contact information.  
 
 ### ✏️ Step 02: Identify Target Users
+**What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)** 
+* The characteristics of users
+
+
+**In which context (where, why) would the users do that activity?** 
+**What do/did the users usually do in order to complete that activity?** 
+
 
 ### ✏️ Step 03: Pick Observation Method(s)
 
-## Participatory Research Materials 
+## *Participatory Research Materials* 
 
-## Reflection 
+## *Reflection* 
