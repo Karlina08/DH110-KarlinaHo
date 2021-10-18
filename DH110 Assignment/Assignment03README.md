@@ -33,6 +33,16 @@
 ### ✏️ Step 03: Pick Qualitative Research Method(s)
 The qualitative research method employed for this activity was **participatory observation and interaction.** The interviewee participated in multiple activities to explore the topic of educational and financial assistance among early education and care programs along with their viewpoints and perspectives on the topic.
 
-## *Participatory Research Materials* 
+### ✏️ Step 04: Participatory Research Materials
+* ____Interview Script 
 
-## *Reflection* 
+### ✏️ Step 05: Conducting Research
+* **Recordings** 
+    * [Contextual Inquiry] 
+    * [Participatory Observation]
+    * [Additional Questions and Closing]
+
+* **Please find the transcription [here]**
+* **Insights**
+
+### ✏️ Step 06: Reflection
