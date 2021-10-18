@@ -13,7 +13,7 @@
 * Currently, to satisfy the financial assistance needs for early education and care programs, families are able to contact Child Care Resource and Referral Agencies (CCR&Rs) or enroll in Child Care Payment Programs, cash aid/welfare assistance programs, and other subsidized child care programs. 
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology**
-* Present limitations regarding financial assistance for early education and care programs include the inability to access the information in an efficient manner online, and obtaining the correct individuals to enquire about financial assistance often becomes cumbersome through the need to speak with multipl individuals through a prolonged period of time. To better facilitate the journey of acquiring financial assistance of early education and care programs, users should be given a digital guide with access to direct contacts for a more streamlined process, rather than being provided external links that require users to perform additional research for contact information.  
+* Present limitations regarding financial assistance for early education and care programs include the inability to access the information in an efficient manner online, and obtaining the correct individuals to inquire about financial assistance often becomes cumbersome through the need to speak with multipl individuals through a prolonged period of time. To better facilitate the journey of acquiring financial assistance of early education and care programs, users should be given a digital guide with access to direct contacts for a more streamlined process, rather than being provided external links that require users to perform additional research for contact information.  
 
 ### ✏️ Step 02: Identify Target Users
 **What are the characteristics of users?** 
@@ -25,6 +25,8 @@
     * Users do not need any specific level of expertise to be able to navigate through this site. 
 
 **In which context (where, why) would the users do that activity?** 
+* In order for users to inquire about financial assistance for early education and care programs in Massachusetts, users must visit the [Massachusetts Department of Early Education and Care](https://www.mass.gov/orgs/department-of-early-education-and-care) (EEC) site to find information. Users would most likely visit this site from their own households. Consequently, accessibility remains a crucial component for the site in order to ensure that users can gain access to the needed information to begin the process of obtaining financial assistance for early education and care programs. Once the user finds the information on the site, users may then partake in a phone call dialing, "Mass 211" or can visit or contact their local Child Care Resource and Referral (CCR&R) agency. Their agencies may vary from city to city in the state of Massachusetts. 
+
 **What do/did the users usually do in order to complete that activity?** 
 
 
