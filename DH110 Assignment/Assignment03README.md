@@ -13,8 +13,7 @@
 * Currently, to satisfy the financial assistance needs for early education and care programs, families are able to contact Child Care Resource and Referral Agencies (CCR&Rs) or enroll in Child Care Payment Programs, cash aid/welfare assistance programs, and other subsidized child care programs. 
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology**
-* Present limitations regarding  
-* Certain limitations for traveling and parking include not knowing availability ahead of time and as a result, spending a lot of time looking for parking or not heading out to a destination at all. Added functionality to the ParkMobile app could definitely help users discover places that they feel comfortable visiting due to positive parking situations and ensure that they become repeat visitors.
+* Present limitations regarding financial assistance for early education and care programs include the inability to access the information in an efficient manner online, and obtaining the correct individuals to enquire about financial assistance often becomes cumbersome through the need to speak with multipl individuals through a prolonged period of time. To better facilitate the journey of acquiring financial assistance of early education and care programs, users should be given a digital guide with access to direct contacts for a more streamlined process, rather than being provided external links that require users to perform additional research for contact information.  
 
 ### ✏️ Step 02: Identify Target Users
 
