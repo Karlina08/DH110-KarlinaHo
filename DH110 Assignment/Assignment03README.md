@@ -16,9 +16,13 @@
 * Present limitations regarding financial assistance for early education and care programs include the inability to access the information in an efficient manner online, and obtaining the correct individuals to enquire about financial assistance often becomes cumbersome through the need to speak with multipl individuals through a prolonged period of time. To better facilitate the journey of acquiring financial assistance of early education and care programs, users should be given a digital guide with access to direct contacts for a more streamlined process, rather than being provided external links that require users to perform additional research for contact information.  
 
 ### ✏️ Step 02: Identify Target Users
-**What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)** 
-* The characteristics of users
-
+**What are the characteristics of users?** 
+* **Demographics** 
+    * Indivuals (parent(s), guardian, grandparent(s), etc.) who have or are taking care of children that are currently within the ages of birth to 12 years old and currently reside in the state of Massachusetts. Additionally, these users usually possess household incomes that are at or below 50% of the state median income and are low socioeconomic status households.   
+* **Preferences** 
+    * These users currently demonstrate financial need and/or hardship within their families, therefore needed guidance and help in obtaining financial assistance for early educatiion and care programs for their children. 
+* **Expertise** 
+    * Users do not need any specific level of expertise to be able to navigate through this site. 
 
 **In which context (where, why) would the users do that activity?** 
 **What do/did the users usually do in order to complete that activity?** 
