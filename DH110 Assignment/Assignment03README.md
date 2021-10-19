@@ -38,9 +38,9 @@ The qualitative research method employed for this activity was **participatory o
 
 ### ✏️ Step 05: Conducting Research
 * **[Recording]** 
-    * To access to Zoom cloud recording, please enter the password, ""
-
-* **Please find the transcription [here]**
+    * To access video, click [here](https://drive.google.com/file/d/1LMhqKychHcfKxZlW8_ZLERzfjMJ7Duzn/view?usp=sharing)
+    * To access to Zoom cloud recording, click [here](https://ucla.zoom.us/rec/share/lz3V6VEaXk6WbM-ILUDqKFa2GW_83mdR0cww0KJF-GZkcxqYmdOkrhHDc7cswYEM.Td5zzuqbnoU5X-rA)
+* **Please find the transcription [here](https://docs.google.com/document/d/1XoFoEsP-dVqlOjy24Y0qlYEAq4QpXcdoGKF5_6PKOqA/edit?usp=sharing)**
 * **Insights**
 
 ### ✏️ Step 06: Reflection
