@@ -37,10 +37,8 @@ The qualitative research method employed for this activity was **participatory o
 * [Interview Script](https://docs.google.com/document/d/1fg7HhJV9pUnsDpOtcSxmgYAVmSsjoa5uJbkfakD8kYo/edit?usp=sharing) 
 
 ### ✏️ Step 05: Conducting Research
-* **Recordings** 
-    * [Contextual Inquiry] 
-    * [Participatory Observation]
-    * [Additional Questions and Closing]
+* **[Recording]** 
+    * To access to Zoom cloud recording, please enter the password, ""
 
 * **Please find the transcription [here]**
 * **Insights**
