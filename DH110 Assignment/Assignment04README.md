@@ -33,4 +33,7 @@
 * John then looks through the site and finds that because his current income is at $42,000 and he has 2 children, he is eligible to apply for financial assistance regarding child care. He then writes down information about how to apply for the financial aid and takes down the contact information of his local Child Care Resource and Referral (CCR&R) agency to begin the process of applying for financial assistance. He is now relieved knowing that his children now have an opprotunity to stregthen their educational endeavors by enrolling in these programs.
 ![MA Department of Early Education and Care Journey Map](JohnDH110Search.png)
 
+## 🖊 *Reflection* 
+* Upon completing this UX Storytelling acitivity, I was able to gain firsthand knowledge and insight about what kind of users visit the  Massachusetts Department of Early Education and Care site and what potential challenges they may face. By putting myself in the user's perspective, I was able to view the site from a viewpoint I would have usually been unfamilar with and allowed me to critically think and make informed decisions about the design process as a whole. Even more, this activity allowed me to recognze that eacg user possesses a unique need, expectation, and goal, and the features implemented will ultimately allow the user to become more efficient in their search for specific information. 
+
 
