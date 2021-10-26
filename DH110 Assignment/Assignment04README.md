@@ -13,7 +13,7 @@
 ## 👨‍👩‍👧‍👦 *Persona & Empathy Map*
 > ### Persona 1: **Bethany, the teen mother** 
 ![MA Department of Early Education and Care Persona](BethanyyDH110.png)
-![MA Department of Early Education and Care Map](BethanyDH110Map.png)
+![MA Department of Early Education and Care Map](BethanyyDH110Map.png)
 > ### Persona 2: **John, the recent divorcee** 
 ![MA Department of Early Education and Care Persona](JohnDH110.png)
 ![MA Department of Early Education and Care Map](JohnDH110Map.png)
