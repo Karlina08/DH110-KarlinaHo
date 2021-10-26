@@ -11,10 +11,15 @@
   *  **Auto-Complete Search Bar:** search bars with the presence of a query auto-complete option to predict the user's searches based on their characters entered allow users to efficiently locate the information they are looking for on a site and narrow down their specific searches. As the site itself holds lots of information with pages that are full of lengthy information, an autocomplete bar would allow users to recognize what they are searching for rather than recall.  
 
 ## 👨‍👩‍👧‍👦 *Persona & Empathy Map*
+> ### Persona 1: **Bethany, the teen mother** 
 ![MA Department of Early Education and Care Persona](BethanyDH110.png)
 ![MA Department of Early Education and Care Map](BethanyDH110Map.png)
+> ### Persona 2: **John, the recent divorcee** 
 ![MA Department of Early Education and Care Persona](JohnDH110.png)
 ![MA Department of Early Education and Care Map](JohnDH110Map.png)
+
+## 📖 *Scenarios & Journey Map*
+
 two customer personas: 
 Teen parent looking to seek child care programs for her newboarn son to return back and oursue her college degree 
 Newly divorced father of two (1 and 3 year olds), recently lost his job and wife due to financial struggles and looking to get back on track  
