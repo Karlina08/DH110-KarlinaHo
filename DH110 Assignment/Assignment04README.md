@@ -19,7 +19,14 @@
 ![MA Department of Early Education and Care Map](JohnDH110Map.png)
 
 ## 📖 *Scenarios & Journey Map*
+> ### Scenario 1: **Bethany** 
+* Bethany has a 30 minute lunch break before she begins work again. While sitting in the break room, she decides to go on the Massachusetts Department of Early Education and Care site to search for early child care programs she can put her 8 month old daughter in when she returns back to college in the fall. On her phone, she fills out the information needed to locate the child care programs near her and hopes to briefly find some childcare options before continuning work. 
+* When searching for a licsensed child care program, she fills out the radius requirements for her hometown of Chelsea, MA, and sets her radius to 15 miles. After clicking the search bar, she is met with over 100 search results with the first result showing, "A Bright Beginning Too 132 NORTH ST Danvers, MA 01923-1242." yet she scrolls and immediately finds countless child care options with just names and contact information, and becomes instantly overwhelmed. She doesn't know exactly what ages each child care center takes care of and is unsure if the child care centers can accommadate her school schedule. "If only there was a way to further filter these searches to narrow down a smaller list of child care centers I can put my child in," she thinks to herself. 
+* Fortunately for Bethany, she then sees a filter option on the side of her screen that allows her to further search for child care options by weekdays, weekends, or custom days of the week while selecting specific ages each child care facility can take care of. After utilizing this filter, she is met with 15 child care facilities instead of over 100. 
+* Bethany then searches up a few of the programs suggested to her, and quickly creates a list of child care centers to call when she gets another break. Instead of spending hours looking through hundreds of child care options, the filter options allowed Bethany to efficently locate a list of child care programs that tailored to her needs, making her extremely happy that she is able to go back to college. She then hears her alarm go off, turns off her phone, and heads back to her job happy that she had viable child care options. 
 ![MA Department of Early Education and Care Journey Map](BethanyyDH110Filters.png)
+
+> ### Scenario 2: **John** 
 ![MA Department of Early Education and Care Journey Map](JohnDH110Search.png)
 
 
