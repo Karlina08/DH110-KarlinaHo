@@ -10,8 +10,11 @@
   * **Filters:** the utilization of filters regarding early education programs would allow users to find the specific information needed to enroll their child in sooner, and allow users to find more personalized information that fit their current situations. Although there are currently drop down tabs and hyperlinks for users to click on information that leads them to additional pages on the site, the site is unclear in separating what programs are best fit for each specfic child. As early education and child care programs range from newborn to 12 year olds, the presence of filters will allow parents and guardians the oppprtunity to narrow down their child care options. Filters would include ages, "0-3," "4-7," and so on. 
   *  **Auto-Complete Search Bar:** search bars with the presence of a query auto-complete option to predict the user's searches based on their characters entered allow users to efficiently locate the information they are looking for on a site and narrow down their specific searches. As the site itself holds lots of information with pages that are full of lengthy information, an autocomplete bar would allow users to recognize what they are searching for rather than recall.  
 
-![website of MA Department of Elementary and Secondary Education](BethanyDH110.png)
-![website of MA Department of Elementary and Secondary Education](JohnDH110.png)
+## 👨‍👩‍👧‍👦 *Persona & Empathy Map*
+![MA Department of Early Education and Care Persona](BethanyDH110.png)
+![MA Department of Early Education and Care Map](BethanyDH110Map.png)
+![MA Department of Early Education and Care Persona](JohnDH110.png)
+![MA Department of Early Education and Care Map](JohnDH110Map.png)
 two customer personas: 
 Teen parent looking to seek child care programs for her newboarn son to return back and oursue her college degree 
 Newly divorced father of two (1 and 3 year olds), recently lost his job and wife due to financial struggles and looking to get back on track  
