@@ -27,6 +27,9 @@
 ![MA Department of Early Education and Care Journey Map](BethanyyDH110Filters.png)
 
 > ### Scenario 2: **John** 
+* It is around 10:00pm, and John has put his two songs, ages 1 and 3, to sleep after a long day. With some alone time to himself, John heads over to his computer to search for financial assistance options in order to put his kids in child care programs when he goes back to work in the near future. As he recently lost his job, John is extremely new to applying for financial assistance, and is unsure of what to do. he is hoping that within 30 minutes, he can obtain specific information that enables him to apply for financial assitance regarding child care programs. 
+* He then visits the Massachusetts Department of Early Education and Care site and is met with a site full of various tabs and numerous amounts of information. As he is still unfamililar with technology, he first begins to scroll through the homepage, but is unsure of where to begin. He attempts to click through the site, but is unfamilar with hyperlinks and is unsure of how to get back to the main page after clicking into the hyperlink. As a result, he clicks the exit button of the entire browser, and starts his search again. After coming back to the main page, he then scrolls back to the top of the page and finds a search bar. "What do I type in?" he thinks to himself. He starts with typing "financial help" in the search bar and is met with over 20+ results. He is met with numerous financial aid options, but is unsure of which one to click. 
+*   
 ![MA Department of Early Education and Care Journey Map](JohnDH110Search.png)
 
 
