@@ -19,6 +19,7 @@
 ![MA Department of Early Education and Care Map](JohnDH110Map.png)
 
 ## 📖 *Scenarios & Journey Map*
+![MA Department of Early Education and Care Journey Map](BethanyyDH110.png)
 
 two customer personas: 
 Teen parent looking to seek child care programs for her newboarn son to return back and oursue her college degree 
