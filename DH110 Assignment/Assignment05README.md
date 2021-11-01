@@ -18,5 +18,11 @@
   * A recent male divorcee who wanted to learn if he was eligible for financial child care financial assistance as a result of his lost job. 
 
 ### *Tasks/Features*
+* The tasks and features of the low-fi protoype in this assignment stem from user research such as usability testing of current MA Deapartment of Early Education and Care (EEC) site features to inquire about financial assistance for early education and care programs in Massachusetts. contextual inquiry of potential target users, and additional overservations based on my own personal experiences with the EEC site. With this in mind, the two tasks/features that the system will need to support includes: 
+ * Narrowing child care program options with additional/advanced filters 
+ * Including auto-complete search bar to predict user's searches on EEC site
+
+
+* he features and tasks of this low-fi prototype were ideated through various steps of user research, including usability testing of existing ParkMobile features, contextual inquiry of a target user, and other observations made by myself (also a user of ParkMobile) based on my experience and understanding of the driving/parking application space. The three features include: the ability to see how much parking costs at a certain location prior to clicking into that location; receiving recommendations on places to visit in LA; and a ParkMobile integration with Google Maps.
 
 ## 📱 *Wireframes and Wireflows* 
