@@ -23,6 +23,14 @@
   * Including auto-complete search bar to predict user's searches on EEC site
 
 ## 📱 *Wireframes and Wireflows* 
+* Filter Wireframe
+* Autocomplete Wireframe
 * Filter Wireflow ![wireflows](DH110FilterWireframe.jpg)
 * Autocomplete Wireflow ![wireflows](DH110Wireframeautocomplete.png)
+
+## 📱 *Testing* 
+* User Interactions
+  * To test the low fidelity prototype, I conducted the interview via Zoom utilizng the pen tool found on pages on Apple laptops. On the test, I shared my prototype with my interviewee on a shared Zoom screen, and had them use the pen tool to circle and mark the buttons they would click as if the prototype were actually digital. Although the participant asked to not be recorded, I was given permission to use their actual user interaction pages they completed during the interview. The tasks are found below: 
+
+* 
 
