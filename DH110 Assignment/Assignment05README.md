@@ -23,4 +23,5 @@
   * Including auto-complete search bar to predict user's searches on EEC site
 
 ## 📱 *Wireframes and Wireflows* 
+* Filter Wireframe ![wireframes]()
 
