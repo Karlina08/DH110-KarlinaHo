@@ -23,17 +23,30 @@
   * Including auto-complete search bar to predict user's searches on EEC site
 
 ## 📱 *Wireframes and Wireflows* 
-* Filter Wireframe
-* Autocomplete Wireframe
-* Filter Wireflow ![wireflows](DH110FilterWireframe.jpg)
-* Autocomplete Wireflow ![wireflows](DH110Wireframeautocomplete.png)
+### Filter Wireframe + Wireflow ![wireflows](DH110FilterWireframe.jpg)
+### Autocomplete Wireframe + Wireflow ![wireflows](DH110Wireframeautocomplete.png)
 
 ## 📱 *Testing* 
-* User Interactions
+### User Interactions
   * To test the low fidelity prototype, I conducted the interview via Zoom utilizing the pen tool found on pages on Apple laptops. On the test, I shared my prototype with my interviewee on a shared Zoom screen, and had them use the pen tool to circle and mark the buttons they would click as if the prototype were actually digital. Although the participant asked to not be recorded, I was given permission to use their actual user interaction pages they completed during the interview. The tasks are found below: 
 
-* Task 1: Filter Wireflow ![wireflows](DH110Proto.png)
-  * Takeaways: 
-    * 
-* Autocomplete Wireflow ![wireflows](DH110Proto2.png)
+### Task 1: Filter Wireflow 
+  * Navigate to Child Care Programs. 
+  * Utilize filter functions to narrow down Child Care Program search results. 
+  * Learn about the program details of a Child Care Program and begin schedule an appointment. 
+
+![wireflows](DH110Proto.png)
+
+### Task 2: Autocomplete Wireflow
+  * Search for Financial Assistance for Early Education and Care Programs. 
+  * Utilize search autocomplete functions to provide recognition rather than recall for website information.  
+  * Obtain contact information for Child Care Resource and Referral Agencies.
+
+![wireflows](DH110Proto2.png)
+
+## 📱 *Reflection* 
+* Overall, testing out the low-fidelity prototype went well, and the entire process was extremely beneficial to me in regards to understanding the feasability and plausability of my suggested site improvements. Throughout the interview, there were a few notable things that arose: 
+   * During the first task, the interviewee initially was going to click on the button labeled, "child care licensing," but decided to click on the button labled, "early childhood resources." Although early childhood resources is the correct button to click on to get to the desired information regarding licesned childcare locations, it is worth noting that labels and text must be more specific and provide users with links that are not conflicting with one another. 
+   * On the second task, the interviewee did not initially understand that users were able to click on the suggested dropdown auto-query searches as a result of the pre-written sketch/prototype. This ultimately led to some confusion regarding the accessibility and efficiency of the search bar in comparison to the hyperlinks scattered throughout the site. 
+* Overall, sketching the low-fidelity prototype was extremely beneficial in getting to understand the functions and offerings of the intitial site. Unfortunately, I believed that the drawing oftentimes contained words that made users spend slightly more time decoding than they would if the prototype was made via digital tools and platforms such as Figma. In the future, I hope to continue to build upon the culimination of knowledge gained from both this and past assignments, and applied the knowledge learned when eventually constructing my high-fidelity prototypes. 
 
