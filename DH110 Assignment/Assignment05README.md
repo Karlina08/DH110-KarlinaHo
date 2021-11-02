@@ -23,5 +23,6 @@
   * Including auto-complete search bar to predict user's searches on EEC site
 
 ## 📱 *Wireframes and Wireflows* 
-* Filter Wireframe ![wireframes]()
+* Filter Wireflow ![wireflows](DH110FilterWireframe.jpg)
+* Autocomplete Wireflow [wireflows](
 
