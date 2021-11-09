@@ -50,9 +50,11 @@ Based on the feedback gathered from the usability test, I will utilize the Noto 
 
 ## 🖥  *Accessibility Test*
 Light Mode
+
 <img width="750" alt="Screen Shot 2021-11-09 at 2 50 58 AM" src="https://user-images.githubusercontent.com/91553095/140910898-c7f23b06-d8bb-4df1-b6ef-a49847ce3669.png">
-According to WCAG2.0 AA and AAA standards, the contrast ratio for items must be at least least 7:1 for normal text and around 3:1 for large text. A
 
+According to WCAG2.0 AA and AAA standards, the contrast ratio for items must be at least least 7:1 for normal text and around 3:1 for large text. Although the ratio meets these requirements, it may be worth looking into to choose different colors to increase the ratio margin to ensure the color contrast standards are exceeded rather than just met. 
 
+## 🖥  *Reflection*
 
 
