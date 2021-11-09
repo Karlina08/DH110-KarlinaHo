@@ -24,17 +24,20 @@ Because I was designing a desktop webpage, I adhered to an 8x8 grid for for ease
 <img width="549" alt="Screen Shot 2021-11-09 at 1 40 50 AM" src="https://user-images.githubusercontent.com/91553095/140900060-e0c87366-86f6-45d0-805a-263182bf2560.png">
 
 ## 🖥  *Shape Variations*
+To provide the best variety of shapes for user feedback, I utilized a shapes with sharp edges, rounded edges, and one with a combination of both the sharp and round edges. 
 <img width="1261" alt="Screen Shot 2021-11-09 at 1 54 40 AM" src="https://user-images.githubusercontent.com/91553095/140902247-7c10377a-dd36-441f-89e6-daafd08cf0d1.png">
 
 ## 🖥  *Typographic Variations*
+As the site is dedicated towards parents and/or guardians who are looking to secure financial aid for their children/young individuals, I thought that it would be itneresting to provide font variations with a more playful aesthetic. Consequently, my typographic variations consisted of two additional fonts that I believed achieved this. 
 <img width="1239" alt="Screen Shot 2021-11-09 at 1 56 18 AM" src="https://user-images.githubusercontent.com/91553095/140902505-7b4eae8d-e07b-48b7-b6c9-d361393bb4dd.png">
 
 ## 🖥  *Color Variation*
+Regarding the color variations, I decided to utilize both a light and dark version of my site. My light version of the webpage consists of a light gray and slightly dark gray with black and dark blue typographic components. For my dark mode of the page, I hoped to invert the colors, therefore provided a contrast to the light mode with black and dark grey backgrounds with white text. 
 <img width="1190" alt="Screen Shot 2021-11-09 at 1 57 43 AM" src="https://user-images.githubusercontent.com/91553095/140902764-fc3c7416-0045-49ed-b7e0-f07e65f9cf2f.png">
 
 ## 🖥  *Impression Test*
 <img width="1278" alt="Screen Shot 2021-11-09 at 2 12 30 AM" src="https://user-images.githubusercontent.com/91553095/140905196-7f014a73-8a7d-4850-8b38-3d5f35e7aa64.png">
-To conduct the impression test of my design variations, I interviewed my user over Zoom. To execute the test, users were briefly given an explantation about the test. For the test, I showed the user one screen at a time for about 10 seconds each. Then, the user was asked to provide feedback on the design variations for the designer/researcher to gain a better understanding of the design strengths and weaknesses. The test was executed in the order below: 
+To conduct the impression test of my design variations, I interviewed my user over Zoom. To execute the test, the user was briefly given an explantation about the test. For the test, I showed the user one screen at a time for about 10 seconds each. Then, the user was asked to provide feedback on the design variations for the designer/researcher to gain a better understanding of the design strengths and weaknesses. The test was executed in the order below: 
 
 * **Shape** 
   * When asked to provide feedback about the shapes, the user expressed favorability towards the first shape (rectangular/sharp edges). "Espically for a desktop website, I feel that it looks cleaner and easier to use," the participant stated. Even more, the user also discussed how the rectangular shape allows users to better utilize the drop down feastures found on the site, as it provided clarity and acknowledgement to the dropdown feature instead of obscuring it and having users mistaking it for a button. Overall, the rectangular shape made the webpage look cohesive and fit the professional aesthetic of a government website. 
@@ -46,7 +49,7 @@ To conduct the impression test of my design variations, I interviewed my user ov
   * Although the user liked both colors when discussing the light and dark mode options, the user leaned more towards the light mode alternative due to personal preference in conjunction with contrast (white and light gray had less of a stark constrast). Specifically for this variation, color may have to continue to be tested in the future to additional confounding variables other than user preference will affect user accessbility in regards to site color. 
 
 ## 🖥  *Results*
-Based on the feedback gathered from the usability test, I will utilize the Noto Sans font with rectangular shapes while utilizing the color scheme found in the light mode variation.
+Based on the feedback gathered from the usability test, I will utilize the Noto Sans font with rectangular shapes while utilizing the color scheme found in the light mode variation. Even more, the font size of main titles of the site will be 48 regular Noto Sans, size 24 regular Noto Sans for subtitles, and size 16 regular Noto Sans for regular body text on found on the site. 
 
 ## 🖥  *Accessibility Test*
 Light Mode
@@ -55,6 +58,8 @@ Light Mode
 
 According to WCAG2.0 AA and AAA standards, the contrast ratio for items must be at least least 7:1 for normal text and around 3:1 for large text. Although the ratio meets these requirements, it may be worth looking into to choose different colors to increase the ratio margin to ensure the color contrast standards are exceeded rather than just met. 
 
+## 🖥  *Design System*
+
+
 ## 🖥  *Reflection*
-
-
+Overall, this assignment was incredibly insightful and allowed to me gain greater experience in utilizing Figma and other tools and plug-ins on the site along with have an even better understanding of user feedback and the importance of the user in design. Although a few problems such as technical problems on Zoom (the “share screen” feature on Zoom was lagging, resulting the user asking to repeat being shown the variations) when interviewing my user during the usability testing, which could have affected results or user impressions. Utilizing this information gained from this activity, I hope to continue to build upon this prototype and refine ideas and suggestions provided by user feedback. Additionally, because my color constraint was close to the suggest 7:1 and 3:1 recommended ratio, I would continue to try color unique color variations in ensuring the best color style of the site redesign in the future. 
