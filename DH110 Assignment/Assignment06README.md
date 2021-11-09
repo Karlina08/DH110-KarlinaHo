@@ -59,8 +59,5 @@ Light Mode
 
 According to WCAG2.0 AA and AAA standards, the contrast ratio for items must be at least least 7:1 for normal text and around 3:1 for large text. Although the ratio meets these requirements, it may be worth looking into to choose different colors to increase the ratio margin to ensure the color contrast standards are exceeded rather than just met. 
 
-## 🖥  *Design System*
-
-
 ## 🖥  *Reflection*
 Overall, this assignment was incredibly insightful and allowed to me gain greater experience in utilizing Figma and other tools and plug-ins on the site along with have an even better understanding of user feedback and the importance of the user in design. Although a few problems such as technical problems on Zoom (the “share screen” feature on Zoom was lagging, resulting the user asking to repeat being shown the variations) when interviewing my user during the usability testing, which could have affected results or user impressions. Utilizing this information gained from this activity, I hope to continue to build upon this prototype and refine ideas and suggestions provided by user feedback. Additionally, because my color constraint was close to the suggest 7:1 and 3:1 recommended ratio, I would continue to try color unique color variations in ensuring the best color style of the site redesign in the future. 
