@@ -3,7 +3,7 @@
 
 ## 🖥  *Introduction*
 ### *Overview* 
-* [Figma Desktop Prototype](https://www.figma.com/file/3wHCEjjMASZpQi2iAoOjTY/Untitled)
+* [Figma Desktop Prototype](https://www.figma.com/file/oDSTd3n6bWkykLXRswU28c/DH-110-Assignment-06%3A-Wireframes?node-id=0%3A1)
 * [Desktop Prototype Wireflow](https://www.figma.com/file/hjwT5UtOrjhViWX4CTX8TC/06%3A-Wireframe-(Copy)?node-id=11%3A772)
 * [User Testing Video](https://drive.google.com/file/d/1Uqp9t4XKISasU6BcmDBQgQf2BzXSUMIH/view?usp=sharing)
 
@@ -16,7 +16,8 @@
 <img width="560" alt="Screen Shot 2021-11-09 at 2 58 48 AM" src="https://user-images.githubusercontent.com/91553095/140912033-4c3cfc39-d632-474b-aa56-8edae47c6ee8.png">
 
 ## 🖥  *Wireframes*
-<img width="754" alt="Screen Shot 2021-11-09 at 1 37 16 AM" src="https://user-images.githubusercontent.com/91553095/140899483-7200e9a5-d3b8-49d4-bd18-3fa8a5e5f42b.png">
+<img width="825" alt="Screen Shot 2021-11-09 at 7 05 05 AM" src="https://user-images.githubusercontent.com/91553095/140949068-a4e1e08d-28f3-4a8d-872f-3d0c7ec1e39d.png">
+
 
 ## 🖥  *Layout Test*
 Because I was designing a desktop webpage, I adhered to an 8x8 grid for for ease when creating UI components together neatly, visibly, and consistently.
