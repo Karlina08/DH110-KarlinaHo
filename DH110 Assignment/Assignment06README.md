@@ -20,7 +20,7 @@
 
 
 ## 🖥  *Layout Test*
-Because I was designing a desktop webpage, I adhered to an 8x8 grid for for ease when creating UI components together neatly, visibly, and consistently.
+Because I was designing a desktop webpage, I adhered to an 8x8 grid for for ease when creating UI components together neatly, visibly, and consistently. Additionally, the gutter was set at 30. 
 
 <img width="549" alt="Screen Shot 2021-11-09 at 1 40 50 AM" src="https://user-images.githubusercontent.com/91553095/140900060-e0c87366-86f6-45d0-805a-263182bf2560.png">
 
