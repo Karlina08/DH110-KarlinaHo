@@ -3,12 +3,14 @@
 
 ## 🖥  *Introduction*
 ### *Description*
-* This interactive program was designed to address the culmination of issues garnered that prevented individuals located in the Commonwealth of Massachusetts to access financial assistance for early education and child care programs in a efficient and timely manner. The [Massachusetts Department of Early Education and Care](https://www.mass.gov/orgs/department-of-early-education-and-care) (EEC) site allows users to inquire about a plethora of advice and information related to child care programs, certifications, news and additional resources made to aid parents, guardians, and caregivers with childhood development. As a result, I redesigned certain aspects of the Massachuseets Department of Early Education and Care site to incorporate features suggested from prior UX Storytelling and user personas such as filters and auto-filled suggestions for the main search bar. 
+* This interactive program was designed to address the culmination of issues garnered that prevented individuals located in the Commonwealth of Massachusetts to access resources, financial assistance aid, and suggesstions for early education and child care programs in a efficient and timely manner. The [Massachusetts Department of Early Education and Care](https://www.mass.gov/orgs/department-of-early-education-and-care) (EEC) site allows users to inquire about a plethora of advice and information related to child care programs, certifications, news and additional resources made to aid parents, guardians, and caregivers with childhood development. As a result, I redesigned certain aspects of the Massachuseets Department of Early Education and Care site to incorporate features suggested from prior UX Storytelling and user personas such as filters and auto-filled suggestions for the main search bar. 
 
 ### *Purpose*
-- can user carry out a task 
+* The purpose of this high fidelity prototype is to give users a life-like and visual aid in seeing and evalutating the suggested tasks and features becoming implemented into the site. Even more, this prototype validates and supports user's interaction flows and suggests potential influences in regards to the choices users make when navigate the site. 
 
 ### *Process*
+* For this interactive prototype, I utilized Figma to design, revise, and create my high fidelity prototype. Specifically for the revisions, I implemented feedback from Professor Sookie, my DH 110 classmates, and numerous individuals at UCLA. With these walkthroughs and suggestions, I was given the opportunity to continuously improve upon my previous designs to ensure that users of the EEC site were able to information throughout the site such as child care programs in a timely, efficient, and intuitive manner. 
+
 
 ## 🖥  *Tasks*
 
@@ -16,7 +18,8 @@
 ## 🖥  *Wireflow*
 
 ## 🖥  *Interactive Prototype*
-<img width="1272" alt="Screen Shot 2021-11-17 at 7 02 24 PM" src="https://user-images.githubusercontent.com/91553095/142344108-140571ea-3a32-4e3d-b083-fb4b5b463457.png">
+<img width="1251" alt="Screen Shot 2021-11-17 at 11 41 16 PM" src="https://user-images.githubusercontent.com/91553095/142372870-4b05cf19-1ad1-4784-b13c-a73c288cac45.png">
+
 
 
 ## 🖥  *Cognitive Walkthrough*
