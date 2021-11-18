@@ -13,44 +13,30 @@
 
 
 ## 🖥  *Tasks*
+* The tasks found in the high fidelity prototype center around two previously proposed designed features for previous [UX Storytelling and user personas](https://github.com/KarlinaHo/DH110-KarlinaHo/blob/main/DH110%20Assignment/Assignment05README.md), along with using additional features of the site: 
+    * ***Navigating the EEC homepage's search bar to locate a guide and search for licensed school age programs***: To do this, the user must find the search button, click on it, and type in their desired searches. Query auto-complete options will predict the user's searches based on the characters they enter, which ultimately allow users to efficiently locate the information they are looking for on a site and narrow down their specific searches. 
+    * ***Utilizing the implemented filters for early education programs to find a licensed child care program***: Users will use these newly added filters to find specific licensed child care programs by selecting and typing in a variety of requests to gather search results for licensed child care programs. Users are given the ability to either directly click on the hyperlinked name of the suggested child care program or utilize the map. Then, individuals will access the program details of a child care program that best matched their requests.
+
+## 🖥  *Interactive Prototype*
+* [Link](https://www.figma.com/file/WbC5oPKhSSSLv5gYjWT8PH/07%3A-Wireflow-(Copy)?node-id=0%3A1) to the high fidelity prototype with both tasks. 
 
 
 ## 🖥  *Wireflow*
-
-## 🖥  *Interactive Prototype*
 <img width="1251" alt="Screen Shot 2021-11-17 at 11 41 16 PM" src="https://user-images.githubusercontent.com/91553095/142372870-4b05cf19-1ad1-4784-b13c-a73c288cac45.png">
 
+###  *Task 1 Wireflow*
+* Navigating the EEC homepage's search bar to locate a guide for licensed school age programs
+<img width="726" alt="Screen Shot 2021-11-18 at 12 25 20 AM" src="https://user-images.githubusercontent.com/91553095/142378828-8aac2588-b541-4138-9fb1-cdb3bdde71f2.png">
+
+###  *Task 2 Wireflow*
+* Utilizing the implemented filters for early education programs to find a licensed child care program
+<img width="398" alt="Screen Shot 2021-11-18 at 12 41 38 AM" src="https://user-images.githubusercontent.com/91553095/142381131-13167da6-5858-48cd-8170-b79770dc44e1.png">
 
 
 ## 🖥  *Cognitive Walkthrough*
-Please enter the name of designer whose work you are to review: Christina Cha			
-
-What do you see? 	
-
-
-What do you think that web/app is about? 	
-
-
-
-What do you think you can do with this web/app?	
-
-
-
-Any other comments?	
-Rly like how clean the website is, like the tabs 
-Is there any point that the users may not understand what this screen(feedback) is about?	
-Intuitive, buttons are able to change esp when you add scholarships, progress bar
-Is there any point that the users may not recognize where to click or select?	
-Overall, intuitive, maybe a clearer back button 
-Is there any point that the users may feel lost and may not sure whether the progress is being made toward what they want to achieve?	
-Might not know to un add the scholarship
-Is there any point that the users would not know what to do the next step? 	
-Same as before
-Is there any point that is not clear where to return or missing back-flow of cancel or exit?	
-One concern about save, but should have a pop up that says added 
-Is there anything inconsistent, missing, or confusing?	
-N/A 
-Any other comments?
-
+* [Link](https://drive.google.com/file/d/1GulwEqksHzR866cVXCuQk395fohC-jiQ/view?usp=sharing) to the cognitive walkthrough with Christina Cha. Special thanks to Jason Lai and Amanda Johnson for providing feedback through our in-class cognitive walkthrough as well. 
+## *Summary and Reflection*
+* Overall, the cognitive walkthroughs went smoothly. Although during the in-class cognitive walkthroughs had some small technical difficulties with the "screen-sharing" feature not working on my end, I was able to send the link to my classmates for them to share which was different from what I had initially expected (such as not being able to navigate to certain screens). Although having someone fully assist me with the walkthrough could have led to bias, the feedback I recieved was extremely helpful. This did not happen through my other walkthrough, and because of my in-class walkthroughs, I was able to prepare for any potential technial difficulties by asking the participant if "she could see my screen." 
+* For my in-class walkthroughs with Jason and Amanda, the feedback I got related to little confusion for users to navigate the site along with great understanding of the logical progression for finding the child care programs, however a main concern Jason discussed during was how users may not recognize where to click or select when there were underlined links without the text explicitly stating "click here," which I did not initially realize, as the underlined text was not related to the assigned tasks. Additionally, Jason and Amanda had pointed out that he had wished he was able to see additional screens, which was contributed to my inability to share the screen myself due to another technical glitch and lack of screens, which I heavily ensured would not happen again when adding the feedback into my prototype. Amanda also pointed out that users would have an issue not knowing what to do during the next step in regards to the "Find a licensed Family, Group, or School Age Child Care program" guide as the boxes for alerts and the "find child care programs" link were extremely similar in size. I found this insight to be extremely fascinating, as Christina
 
 ## 🖥  *Previous Prototypes & Feedback*
