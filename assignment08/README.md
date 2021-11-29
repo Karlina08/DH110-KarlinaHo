@@ -47,7 +47,7 @@ Link to my [high fidelity prototype can be found here](https://www.figma.com/fil
 
 
 ###  Evaluation and Revision history 
-Cognitive walkthrough, impression testing, accessibility auditing, usability testing can be found [here](https://github.com/KarlinaHo/DH110-KarlinaHo/blob/main/DH110%20Assignment/Assignment07README.md)
+Cognitive walkthrough, impression testing, accessibility auditing, usability testing can be found [here](https://github.com/KarlinaHo/DH110-KarlinaHo/blob/main/DH110%20Assignment/Assignment07README.md).
 
 After my revision, I conducted additional usability testing. The video of the usability test can be found [here](https://drive.google.com/file/d/1GulwEqksHzR866cVXCuQk395fohC-jiQ/view). 
 From the usability testing, I was able to conclude that the site and its interaction flow were very intuitive and straightforward with the prescence of clear buttons and site indicators on the webpage and that the logical progression for finding the child care programs was acessible and efficient for users. Using the feedback from my usability test both in-class and outside of class, I also continnued to add additional textual and size revisions to eradicate any confusing hyperlinks or issues regarding next steps for Child Care program guides
