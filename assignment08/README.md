@@ -53,7 +53,7 @@ After my revision, I conducted additional usability testing. The video of the us
 From the usability testing, I was able to conclude that the site and its interaction flow were very intuitive and straightforward with the prescence of clear buttons and site indicators on the webpage and that the logical progression for finding the child care programs was acessible and efficient for users. Using the feedback from my usability test both in-class and outside of class, I also continnued to add additional textual and size revisions to eradicate any confusing hyperlinks or issues regarding next steps for Child Care program guides
 
 ### Pitch video 
-The link to my pitch video can be found [here](https://youtu.be/-tO1GVmk1Lo). 
+The link to my pitch video can be found [here](https://youtu.be/sqcpAn_jr-g).
 
 ### Conclusion: what did you learn throughout the process?
 Overall, the UX design process was challenging, yet extremely rewarding, and allowed me to learn a tremendous amount of infromation related to UX. Coming from a background with no UI/UX knowledge, I was immersed and experienced firsthand the steps of conducting UX research, performing usabiilty testing, and learning how to use numerous tools to construct wireframes and wireflows for prototypes through Figma. My main takeaways from this project include: 
