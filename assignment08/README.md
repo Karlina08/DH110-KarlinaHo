@@ -47,4 +47,13 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Pitch video 
 
 ### Conclusion: what did you learn throughout the process?
+Overall, the UX design process was challenging, yet extremely rewarding, and allowed me to learn a tremendous amount of infromation related to UX. Coming from a background with no UI/UX knowledge, I was immersed and experienced firsthand the steps of conducting UX research, performing usabiilty testing, and learning how to use numerous tools to construct wireframes and wireflows for prototypes through Figma. My main takeaways from this project include: 
+
+Design Skills: From hand-sketching wireframes to digitizing each site and its flows through Figma, I was able to utilize the various skills and methods learned in class from Figma and apply them when re-creating my site as my wireframes depicted a site with various compenents including text, color, and GUI components. Even more, I was able to gain familirity with additional design tools such as Adobe XD and Framer. Through my career and interest in entrepreneruship and social media content creation and mockups, I hope to continue to build upon these skills learned and apply them to my future career. 
+
+The Importance of User Testing and Feedback: Through my multiple rounds of feedback and testing from my initial site evaluation to my high-fidelity prototype, I learned how important gaining insight and feeback from others were. Oftentimes, my subjects would point out a component or area of my site that I had orginally not seen or considered for revision. By fully understanding the user's experiences, I am able to alleviate the bias of the desifginer (myself), and implement changes and constructive design changes in a way that benefit the user. 
+
+Graphical Interface Accessibility: Prior to this project, I was unaware of the standards for accessibilty, including the plugin Stark and the WCAG2.0 AA and AAA standards. I found it extremely interesting to learn that the contrast ratio for items must be at least least 7:1 for normal text and around 3:1 for large text, and taught me the importance of making the correct graphical interface choices in order for the site to be clear and accessible for users. 
+
+
 
