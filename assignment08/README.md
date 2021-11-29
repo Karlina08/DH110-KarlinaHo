@@ -1,7 +1,7 @@
-# Project title 
+# Massachussests Early Education and Care: Increasing Accessbility of Early Education and Child Care Information for Parents
 ## Karlina Ho
 
-### Introduction: a brief information about the project. 
+### Introduction
 What is the project about? The motivation of the project and possible contribution.
 
 ### Clear design statement: 
